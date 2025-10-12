@@ -23,6 +23,7 @@ $\color{Green}\Huge{\textbf{Shorts}}$
 
 1. 🆓Unboxing NORVI GSM AE04-V-G Industrial Controller | IoT | GSM | SD Card | RS485 | WiFi | 24V | [[Watch]](https://youtube.com/shorts/6SdK4L0gYQ8)
 
+##
 $\color{Green}\Huge{\textbf{Getting Started Guide}}$
 
 1. 🆓NORVI ESP32 Based Industrial Controller | ESP32 PLC | NORVI GSM-AE04-V-G | SIM800C | RS485 | IoT | [[Watch]](https://youtu.be/I6bffk8_TEI)

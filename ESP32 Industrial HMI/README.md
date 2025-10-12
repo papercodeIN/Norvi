@@ -23,6 +23,7 @@ $\color{Green}\Huge{\textbf{Shorts}}$
 
 1. 🆓Unboxing NORVI ESP32 Industrial HMI | ESP-HMI-5C-V1 | IoT | ESP32 | Modbus RS485 | Ethernet | RJ45 | [[Watch]](https://youtube.com/shorts/TKGB9_iB_mw)
 
+##
 $\color{Green}\Huge{\textbf{Getting Started Guide}}$
 
 1. 🆓NORVI ESP32 Based Industrial HMI | LVGL | AI | DI | DO | RS485 | 24V DC | WiFi | SD Card | RJ45 | [[Watch]](https://youtu.be/Gn66ejrnaK4)
