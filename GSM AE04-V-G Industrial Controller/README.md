@@ -18,13 +18,6 @@
 </p>
 
 ---
-## Modbus Library
-![Modbus Library](https://github.com/papercodeIN/Norvi/blob/main/GSM%20AE04-V-G%20Industrial%20Controller/Modbus_Library.png)
-
-## ADC Library
-![ADC Library](https://github.com/papercodeIN/Norvi/blob/main/GSM%20AE04-V-G%20Industrial%20Controller/ADC_Library.png)
-
----
 
 $\color{Green}\Huge{\textbf{Shorts}}$
 
@@ -49,6 +42,15 @@ $\color{Green}\Huge{\textbf{Getting Started Guide}}$
 14. ⌛How to Integrate NORVI ESP32 Based Industrial Controller with Node-RED via Modbus RS485 [Watch]
 
 ---
+
+## Modbus Library
+![Modbus Library](https://github.com/papercodeIN/Norvi/blob/main/GSM%20AE04-V-G%20Industrial%20Controller/Modbus_Library.png)
+
+## ADC Library
+![ADC Library](https://github.com/papercodeIN/Norvi/blob/main/GSM%20AE04-V-G%20Industrial%20Controller/ADC_Library.png)
+
+---
+
 
 <h1 align="center">📢 Reach Out to Us for Any Queries ⤵️</h1>
 
