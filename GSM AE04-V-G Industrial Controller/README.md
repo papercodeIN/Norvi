@@ -18,11 +18,11 @@
 </p>
 
 ---
-# Modbus Library
-![Connection](https://github.com/papercodeIN/Embedded_Devices/blob/main/NORVI/ESP32%20Industrial%20Controller/Modbus_Library.png)
+## Modbus Library
+![Modbus Library](https://github.com/papercodeIN/Norvi/blob/main/GSM%20AE04-V-G%20Industrial%20Controller/Modbus_Library.png)
 
-# ADC Library
-![Connection](https://github.com/papercodeIN/Embedded_Devices/blob/main/NORVI/ESP32%20Industrial%20Controller/ADC_Library.png)
+## ADC Library
+![ADC Library](https://github.com/papercodeIN/Norvi/blob/main/GSM%20AE04-V-G%20Industrial%20Controller/ADC_Library.png)
 
 ---
 
